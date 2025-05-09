@@ -8,7 +8,6 @@ through **Weaviate**.  Both of these approaches have generous free tiers and off
 
 ---
 
-### 0 · Modal + Weaviate setup
 
 ```bash
 pip install modal weaviate-client
