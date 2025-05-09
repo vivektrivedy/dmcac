@@ -1,0 +1,8 @@
+torch>=2.2.0
+torchvision>=0.17.0
+timm>=0.9.16
+einops>=0.7.0
+modal>=0.56
+weaviate-client>=4.5
+boto3        # if you stream data from S3
+pillow
